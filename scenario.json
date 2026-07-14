@@ -1,0 +1,6 @@
+{
+  "title": "JSCAD Quickstart",
+  "entryPath": "/index.js",
+  "linkedLibraries": ["JSCAD"],
+  "features": ["jscad", "javascript", "widgets", "quickstart"]
+}

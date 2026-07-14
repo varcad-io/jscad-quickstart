@@ -1,0 +1,23 @@
+[
+  {
+    "name": "width",
+    "type": "Slider",
+    "description": "Cuboid width",
+    "range": "10,60,1",
+    "defaultValue": "30"
+  },
+  {
+    "name": "depth",
+    "type": "Slider",
+    "description": "Cuboid depth",
+    "range": "10,50,1",
+    "defaultValue": "20"
+  },
+  {
+    "name": "height",
+    "type": "Slider",
+    "description": "Cuboid height",
+    "range": "5,30,1",
+    "defaultValue": "10"
+  }
+]

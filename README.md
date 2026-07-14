@@ -1,3 +1,5 @@
+[![JSCAD Quickstart geometry preview](https://varcad.io/assets/repository-previews/24/84/preview-v8/orbit.webp)](https://varcad.io/varcad-io/jscad-quickstart)
+
 # JSCAD Quickstart
 
 [Launch this project in the Varcad IDE](https://varcad.io/varcad-io/jscad-quickstart)
